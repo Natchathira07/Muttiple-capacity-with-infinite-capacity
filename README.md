@@ -23,11 +23,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![Screenshot 2024-12-16 145016](https://github.com/user-attachments/assets/d6bbf3ce-493e-46b4-b7d7-fd8ae10b7ce8)
 
 
- Program
+ Program:
 
- DEVELOPED BY : NATCHATHIRA V D
-
- REGISTER NO : 24900864
 
 ~~~
 import math
